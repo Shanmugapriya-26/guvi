@@ -1,2 +1,2 @@
-k=list(map(int,input().split()))
-print(max(k))
+q=list(map(int,input().split()))
+print(max(q))
