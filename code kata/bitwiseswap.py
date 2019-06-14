@@ -1,4 +1,4 @@
-n,k=map(int,input().split())
+n,k=list(map(int,input().split()))
 n=n^k
 k=n^k
 n=n^k
