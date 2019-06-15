@@ -1,2 +1,2 @@
 S,K=map(str,input().split())
-print(S[:int(K)])
+print(S[0:int(K)])
